@@ -1,9 +1,9 @@
 {
-  "name": "practiceclasses",
+  "name": "practiceClasses",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sviatoslavfedosiuk.github.io/practiceclasses/",
+  "homepage": "https://sviatoslavfedosiuk.github.io/practiceClasses/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
