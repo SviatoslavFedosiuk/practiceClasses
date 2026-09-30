@@ -1,4 +1,4 @@
-import {} from "./Choice.styled"
+import {Title} from "./Choice.styled"
 
 import { Component } from "react"
 
@@ -6,7 +6,7 @@ class Choice extends Component{
 
     render(){
         return(
-            <p>{this.props.name || "No avaliable data"}</p>
+            <Title>{this.props.name || "No avaliable data"}</Title>
         )
     }
 }

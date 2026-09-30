@@ -1,4 +1,8 @@
 import styled from "styled-components"
-// export const Example = styled.h1`
-// example
-// `
+export const List = styled.ul`
+display: flex;
+flex-wrap: wrap;
+gap: 40px;
+justify-content: center;
+align-items: center;
+`
